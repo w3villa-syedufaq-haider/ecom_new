@@ -1,0 +1,185 @@
+body{
+    overflow-x: hidden;
+}
+
+
+
+.filter{
+    display: flex;
+    justify-content: space-between;
+
+}
+.filter button{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin-left: 25px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+}
+.title_panel{
+    display: flex;
+    justify-content: space-between;
+}
+.title_panel h2{
+    color: blue;
+
+}
+hr{
+    width: 90%;
+}
+#range_tggl{
+    width: 95%;
+}
+.icons{
+    margin-top: 5px;
+}
+.fa-arrow-right-arrow-left {
+    margin-top: 4px;
+}
+.title_panel a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.price_input input{
+    width: 125px;
+    height: 10px;
+    background-color: white;
+    border: 1px solid;
+}
+
+.input-field{
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.inputs input{
+    padding-left: 120px;
+    border: 1px solid rgb(187, 181, 181);
+    background-color: white;
+    height: 50px;
+}
+
+.dropdown .select{
+    margin-top: 4px;
+    padding-right: 310px;
+    height: 47px;
+
+}
+.footer1{
+    flex-wrap: wrap;
+}
+
+body{
+    background-color: rgba(241, 241, 241, 0.658) !important;
+}
+
+.stock a{
+    display: block;
+}
+
+
+.src_body{
+    margin-top: 20px;
+}
+
+.vl {
+    border-right: 1px solid rgb(166, 165, 172);
+    left: 50%; /* Adjust this value to move the element to the right */
+    margin-left: 9px; /* Adjust this value to add margin to the left of the border */
+    top: 0;
+
+  }
+
+@media only screen and (max-width: 940px) {
+    header{
+      display: none;
+    }
+    .sec_1_med{
+        display: block;
+    }
+    .filter{
+        display: none;
+    }
+    .title_panel{
+        display: none;
+    }
+    #price_content{
+        display: none;
+    }
+    hr{
+        display: none;
+    }
+    #compare{
+        display: none;
+    }
+
+  }
+
+
+/* @media only screen and (max-width: 1400px) {
+
+  .input-field{
+    flex-wrap: wrap;
+  }
+} */
+
+@media only screen and (max-width: 770px) {
+
+    .dropdown .select{
+     padding-right: 245px;
+    }
+  } 
+  
+  @media only screen and (max-width: 598px) {
+
+    .dropdown .select{
+     padding-right:215px;
+    }
+  } 
+  
+  @media only screen and (max-width: 497px)
+  {
+ .dropdown .select {
+    padding-right: 190px;
+ }
+ }
+ @media only screen and (max-width: 450px)
+ {
+.dropdown .select {
+   padding-right: 150px;
+}
+}
+@media only screen and (max-width: 420px)
+{
+.dropdown .select {
+  padding-right: 130px;
+}
+}
+@media only screen and (max-width: 380px)
+{
+.dropdown .select {
+  padding-right: 100px;
+}
+}
+
+
+
+
+
+@media only screen and (max-width: 864px)
+{
+    .newsletter {
+        padding-left: 200px !important;
+    }
+}
+
+
+
+@media only screen and (max-width: 864px)
+{
+    body{
+        overflow-x: hidden;
+    }
+}

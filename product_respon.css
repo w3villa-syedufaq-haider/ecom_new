@@ -1,0 +1,38 @@
+/* @media only screen and (max-width: 1508px) {
+    #desc{
+        display: none;
+    }
+} */
+
+@media (max-width: 1400px) {
+    #left2{
+        width: 90px;
+    }
+}
+.description-box{
+    flex-wrap: wrap;
+}
+@media (max-width: 1200px) {
+   .description-box {
+      display: block;
+    }
+}
+
+@media (max-width: 1200px) {
+
+#custom-descr a{
+    text-transform: uppercase;
+     margin-right: 10px;
+  
+    font-size: 12px;
+}
+#mainimg {
+    
+    width: 350px;
+    object-fit: contain;
+}
+.img-choose{
+    display: flex !important;
+    justify-content: center;
+}
+}

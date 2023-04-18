@@ -1,0 +1,1135 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Headphones",
+      "price": 12.99,
+      "preprice": 1222.8,
+      "category": "Electronics",
+      "brand": "Boat",
+      "sale": "50 % off",
+      "tag": 33,
+      "image": "img/headphones.jpg",
+      "images": [
+        "img/logo-givve.png",
+        "img/large_vitalvale.png",
+        "img/logo-givve.png"
+      ],
+      "tags": [
+        "audio",
+        "music",
+        "noise-cancelling"
+      ],
+      "specifications": {
+        "Type": "Over-ear",
+        "other1": "20Hz-20kHz",
+        "other2": "32 ohms",
+        "other3": "40mm"
+      },
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "total_price": 12.99,
+      "in_stock": true,
+      "brand_name": "Boat",
+      "reviews": [
+        {
+          "user": "John Doe",
+          "rating": 4,
+          "comment": "Great sound quality, comfortable to wear for long periods of time."
+        },
+        {
+          "user": "Jane Smith",
+          "rating": 5,
+          "comment": "These headphones exceeded my expectations! The noise-cancelling is amazing."
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "Over-ear design, noise-cancelling, 40mm driver size"
+        },
+        {
+          "title": "Shipping",
+          "content": "Free shipping on orders over $50"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Backpack",
+      "price": 49.99,
+      "preprice": 33,
+      "tag": 50,
+      "category": "Accessories",
+      "brand": "North Face",
+      "sale": "12 % off",
+      "image": "img/bag.jpg",
+      "images": [
+        "img/watch (1).jpg",
+        "img/smartwatch.jpg",
+        "img/logo-givve.png"
+      ],
+      "tags": [
+        "Tarvel",
+        "Bags",
+        "Leather"
+  ],
+      "trending": true,
+      "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "specifications": {
+        "Type": "Water-resistant fabric",
+        "other1": "25 liters",
+        "other2": "19.75\" x 13.25\" x 7.5\"",
+        "other3": "2 lbs 10 oz"
+      },
+      "reviews": [
+        {
+          "user": "John Doe",
+          "rating": 5,
+          "comment": "I love this backpack! It's lightweight but still has plenty of room for my laptop and other essentials."
+        },
+        {
+          "user": "Jane Smith",
+          "rating": 4,
+          "comment": "The backpack is great quality, but I wish it had more pockets for organization."
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Shipping",
+          "content": "Free shipping on orders over $50"
+        },
+        {
+          "title": "Returns",
+          "content": "Easy 30-day returns"
+        }
+      ],
+      "in_stock": true,
+      "total_price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 79.99,
+      "preprice": 132,
+      "category": "Footwear",
+      "brand": "Nike",
+      "sale": "20 % off",
+      "image": "img/shoes.jpg",
+      "tag": 60,
+      "trending": true,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "images": [
+        "img/headphones.jpg",
+        "img/shoes.jpg",
+        "img/bag.jpg"
+      ],
+      "total_price": 79.99,
+      "in_stock": false,
+      "brand_name": "Nike",
+      "tags": [
+         "Running Shoes",
+        "Athletic Shoes",
+         "Sports Shoes"
+      ],
+      "specifications": {
+        "Type": "Nike",
+        "other1": "Synthetic",
+        "other2": "Sole Material",
+        "other3": "Rubber"
+      },
+      "reviews": [
+        {
+          "user": "John Doe",
+          "rating": 4,
+          "comment": "Great shoes for running!"
+        },
+        {
+          "user": "Jane Smith",
+          "rating": 5,
+          "comment": "Very comfortable and stylish."
+        },
+        {
+          "user": "Bob Johnson",
+          "rating": 3,
+          "comment": "Good quality, but not as comfortable as I was hoping."
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Size Guide",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "title": "Shipping Information",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "title": "Returns & Exchanges",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 199.99,
+      "preprice": 162,
+      "category": "Electronics",
+      "brand": "Apple",
+      "sale": "40% off",
+      "image": "img/smartwatch.jpg",
+      "tag": 80,
+      "trending": false,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "images": [
+        "img/fashion.jpeg",
+        "img/logo-givve.png",
+        "img/smartwatch.jpg"
+      ],
+      "total_price": 199.99,
+      "in_stock": true,
+      "brand_name": "Apple",
+      "tags": [
+        "Apple",
+        "iOS",
+        "fitness tracker"
+      ],
+      "specifications": {
+        "Type": "Retina LTPO OLED",
+        "other1": "324 x 394 pixels",
+        "other2": "50 meters",
+        "other3": "Bluetooth 5.0, Wi-Fi (802.11b/g/n 2.4GHz), NFC"
+      },
+      "reviews": [
+        {
+          "username": "johndoe",
+          "rating": 5,
+          "title": "Best Smartwatch",
+          "review_text": "I have been using this smartwatch for over a month now and I am absolutely in love with it. It has all the features I need and it works seamlessly with my iPhone. Highly recommended!"
+        },
+        {
+          "username": "janedoe",
+          "rating": 4,
+          "title": "Good but could be better",
+          "review_text": "I bought this watch for fitness tracking and it does a great job at that. However, I wish it had better battery life as I have to charge it every night. Overall, a good product from Apple."
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "The Apple Watch Series 7 is the most advanced Apple Watch yet. It features a larger Retina display, improved durability, and faster charging. With new watch faces and workout types, it's the perfect companion for your active lifestyle."
+        },
+        {
+          "title": "Compatibility",
+          "content": "The Apple Watch Series 7 requires an iPhone 6s or later with iOS 15 or later. It is not compatible with Android devices."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": 199.99,
+      "preprice": 162,
+      "category": "Electronics",
+      "brand": "Apple",
+      "sale": "40% off",
+      "image": "img/headphones.jpg",
+      "tag":68,
+      "trending": false,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "images": [
+        "img/fashion.jpeg",
+        "img/shoes.jpg",
+        "img/logo-givve.png"
+      ],
+      "total_price": 199.99,
+      "in_stock": true,
+      "brand_name": "Apple Inc.",
+      "tags": [
+        "smartwatch",
+        "wearables",
+        "fitness tracker"
+      ],
+      "specifications": {
+        "other1": "1.78 inches",
+        "Type": "Apple S6",
+        "other2": "32 GB",
+        "other3": "Bluetooth 5.0, Wi-Fi, GPS"
+      },
+      "reviews": [
+        {
+          "user": "john_doe",
+          "rating": 4.5,
+          "comment": "Great product, does everything I need it to.",
+          "date": "2022-03-15"
+        },
+        {
+          "user": "jane_smith",
+          "rating": 5,
+          "comment": "Amazing watch, worth the investment.",
+          "date": "2022-02-20"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "This smartwatch comes with a range of features including heart rate monitoring, ECG, GPS, and more."
+        },
+        {
+          "title": "Compatibility",
+          "content": "Compatible with both iOS and Android devices."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Men's Jeans",
+      "price": 69.99,
+      "preprice": 59.99,
+      "category": "Fashion",
+      "brand": "Levi's",
+      "sale": "14% off",
+      "image": "img/fashion/3pants.jpg",
+      "tag": 46,
+      "trending": true,
+      "description": "Levi's Men's 505 Regular Fit Jeans offer classic straight leg styling cut to sit at the waist. They fit comfortably with a straight leg opening. These jeans are made of heavyweight denim with a regular fit through the seat and thigh.",
+      "images": [
+        "img/fashion/saree.jpeg",
+        "img/fashion/shooes.jpg",
+        "img/fashion/trimmer.jpg"
+      ],
+      "total_price": 69.99,
+      "in_stock": true,
+      "brand_name": "Levi Strauss & Co.",
+      "tags": [
+        "jeans",
+        "men's clothing",
+        "casual wear"
+      ],
+      "specifications": {
+        "Type": "100% Cotton",
+        "other1": "Regular",
+        "other2": "5",
+        "other3": "Zipper Fly"
+      },
+      "reviews": [
+        {
+          "user": "mary_smith",
+          "rating": 4.5,
+          "comment": "These jeans are very comfortable and fit well.",
+          "date": "2023-03-15"
+        },
+        {
+          "user": "bob_jones",
+          "rating": 5,
+          "comment": "These are my new favorite jeans. The fit is perfect.",
+          "date": "2023-04-02"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "Levi's Men's 505 Regular Fit Jeans offer classic straight leg styling cut to sit at the waist. They fit comfortably with a straight leg opening. These jeans are made of heavyweight denim with a regular fit through the seat and thigh."
+        },
+        {
+          "title": "Sizing",
+          "content": "Please refer to the size chart for accurate measurements."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Silk Saree",
+      "price": 499.99,
+      "preprice": 599.99,
+      "category": "Fashion",
+      "brand": "Sabyasachi",
+      "sale": "17% off",
+      "image": "img/fashion/saree.jpeg",
+      "tag": 33,
+      "trending": true,
+      "description": "A beautiful silk saree designed by Sabyasachi Mukherjee, perfect for any occasion. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "images": [
+        "img/phone.jpg",
+        "img/fashion/saree.jpeg",
+        "img/logo-givve.png"
+      ],
+      "total_price": 499.99,
+      "in_stock": true,
+      "brand_name": "Sabyasachi Mukherjee",
+      "tags": [
+        "saree",
+        "ethnic wear",
+        "wedding attire"
+      ],
+      "specifications": {
+        "Type": "Silk",
+        "other1": "6 meters",
+        "other2": "Unstitched",
+        "other3": "Zardozi and Embroidery"
+      },
+      "reviews": [
+        {
+          "user": "shweta_gupta",
+          "rating": 5,
+          "comment": "Absolutely stunning saree, perfect for weddings.",
+          "date": "2023-03-28"
+        },
+        {
+          "user": "deepa_mishra",
+          "rating": 4,
+          "comment": "Great quality and design, but a bit expensive.",
+          "date": "2023-03-15"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Design",
+          "content": "This saree features intricate zardozi and embroidery work, designed to make you stand out at any event."
+        },
+        {
+          "title": "Care",
+          "content": "Dry clean only."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "preprice": 99.99,
+      "category": "Fashion",
+      "brand": "Nike",
+      "sale": "10% off",
+      "image": "img/fashion/shooes.jpg",
+      "tag": 98,
+      "trending": true,
+      "description": "These running shoes from Nike are perfect for any athlete looking to improve their performance. Featuring advanced cushioning technology, durable construction, and a stylish design, these shoes are sure to help you reach your goals.",
+      "images": [
+        "img/shoes.jpg",
+        "img/fashion/3pants.jpg",
+        "img/fashion/saree.jpeg"
+      ],
+      "total_price": 89.99,
+      "in_stock": true,
+      "brand_name": "Nike, Inc.",
+      "tags": [
+        "running shoes",
+        "athletic footwear",
+        "sports shoes"
+      ],
+      "specifications": {
+        "other1": "Breathable mesh upper",
+        "Type": "Neutral",
+        "other2": "Responsive cushioning",
+        "other3": "Durable rubber outsole"
+      },
+      "reviews": [
+        {
+          "user": "johndoe123",
+          "rating": 4.5,
+          "comment": "These shoes are really comfortable and look great. Would definitely recommend them.",
+          "date": "2022-03-01"
+        },
+        {
+          "user": "janedoe456",
+          "rating": 5,
+          "comment": "I love these shoes! They provide excellent support and feel great during my runs.",
+          "date": "2022-02-15"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "These shoes feature breathable mesh uppers, responsive cushioning, and a durable rubber outsole."
+        },
+        {
+          "title": "Sizing",
+          "content": "Be sure to check the size chart before ordering. These shoes tend to run a bit small, so you may need to order a half size up."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Trimmer",
+      "price": 49.99,
+      "preprice": 39.99,
+      "category": "Electronics",
+      "brand": "Philips",
+      "sale": "20% off",
+      "image": "img/fashion/trimmer.jpg",
+      "tag": 42,
+      "trending": true,
+      "description": "Get a precise trim with the Philips Trimmer. Designed for easy use and maintenance, this trimmer comes with various attachments for different trimming lengths.",
+      "images": [
+        "img/fashion/trimmer.jpg",
+        "img/fashion/trimmer.jpg",
+        "img/fashion/trimmer.jpg"
+      ],
+      "total_price": 49.99,
+      "in_stock": true,
+      "brand_name": "Philips",
+      "tags": [
+        "trimmer",
+        "grooming",
+        "personal care"
+      ],
+      "specifications": {
+        "other1": "Stainless steel blades",
+        "Type": "Cordless",
+        "other2": "60 minutes run time",
+        "other3": "Waterproof"
+      },
+      "reviews": [
+        {
+          "user": "jane_doe",
+          "rating": 4,
+          "comment": "Good trimmer, but not very powerful.",
+          "date": "2022-03-10"
+        },
+        {
+          "user": "john_smith",
+          "rating": 5,
+          "comment": "Excellent product. Highly recommended.",
+          "date": "2022-02-15"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "The Philips Trimmer comes with various attachments for different trimming lengths, and has a 60 minute run time on a single charge."
+        },
+        {
+          "title": "Ease of Use",
+          "content": "Designed for easy use and maintenance, this trimmer is cordless and waterproof, making it easy to use and clean."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ceiling Fan",
+      "price": 149.99,
+      "preprice": 119.99,
+      "category": "Electronics",
+      "brand": "Havells",
+      "sale": "20% off",
+      "image": "img/electronics/fan.jpg",
+      "tag": 42,
+      "trending": false,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Havells in the United States.",
+      "images": [
+        "img/electronics/washing.jpeg",
+        "img/headphones.jpg",
+        "img/headphones.jpg"
+      ],
+      "total_price": 149.99,
+      "in_stock": true,
+      "brand_name": "Havells India Limited",
+      "tags": [
+        "ceiling fan",
+        "home appliances"
+      ],
+      "specifications": {
+        "other1": "48 inches",
+        "Type": "Ceiling Fan",
+        "other2": "1200 mm sweep",
+        "other3": "230 volts, 75 watts, 300 RPM"
+      },
+      "reviews": [
+        {
+          "user": "johndoe123",
+          "rating": 4,
+          "comment": "Good fan, works well.",
+          "date": "2022-01-20"
+        },
+        {
+          "user": "janesmith456",
+          "rating": 5,
+          "comment": "Excellent fan, worth the price.",
+          "date": "2022-02-10"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "This ceiling fan comes with a range of features including a high-speed motor, aerodynamic blades, and more."
+        },
+        {
+          "title": "Design",
+          "content": "The sleek and modern design of this fan is perfect for any room in your home."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Refrigerator",
+      "price": 999.99,
+      "preprice": 1199.99,
+      "category": "Electronics",
+      "brand": "Samsung",
+      "sale": "20% off",
+      "image": "img/electronics/fridge.jpg",
+      "tag": 39,
+      "trending": true,
+      "description": "Keep your food fresh and chilled with this high-quality refrigerator from Samsung. With a spacious interior, energy-efficient design, and a range of features, this fridge is perfect for any home.",
+      "images": [
+        "img/headphones.png",
+        "img/electronics/fridge.jpg",
+        "img/headphones.png"
+      ],
+      "total_price": 999.99,
+      "in_stock": true,
+      "brand_name": "Samsung Electronics",
+      "tags": [
+        "refrigerator",
+        "kitchen appliance",
+        "energy-efficient"
+      ],
+      "specifications": {
+        "Type": "21.1 cubic feet",
+        "other1": "Stainless steel",
+        "other2": "Water dispenser, ice maker, digital display, temperature control"
+      },
+      "reviews": [
+        {
+          "user": "jane_doe",
+          "rating": 4,
+          "comment": "Great fridge, very spacious and efficient.",
+          "date": "2022-05-12"
+        },
+        {
+          "user": "john_smith",
+          "rating": 5,
+          "comment": "Love this fridge, keeps everything cool and fresh.",
+          "date": "2022-04-25"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "This fridge comes with a range of features including a water dispenser, ice maker, digital display, and temperature control."
+        },
+        {
+          "title": "Energy Efficiency",
+          "content": "With an energy-efficient design, this fridge will save you money on your electricity bill."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Steam Iron",
+      "price": 49.99,
+      "preprice": 59.99,
+      "category": "Electronics",
+      "brand": "Philips",
+      "sale": "17% off",
+      "image": "img/electronics/iron.jpeg",
+      "tag": 84,
+      "trending": true,
+      "description": "The Philips Steam Iron provides powerful steam output to remove wrinkles from your clothes quickly and easily. It has a durable soleplate for long-lasting performance and a comfortable grip for easy handling. Order now and enjoy a 17% discount!",
+      "images": [
+        "img/electronics/washing.jpeg",
+        "img/headphones.png",
+        "img/electronics/fan.jpg"
+      ],
+      "total_price": 49.99,
+      "in_stock": true,
+      "brand_name": "Philips",
+      "tags": [
+        "steam iron",
+        "iron",
+        "home appliances"
+      ],
+      "specifications": {
+        "Type": "1600 W",
+        "other1": "220-240 V",
+        "other2": "1.8 m",
+        "other3": "Non-stick"
+      },
+      "reviews": [
+        {
+          "user": "johndoe",
+          "rating": 4,
+          "comment": "This iron works well and heats up quickly. However, the cord is a bit short.",
+          "date": "2022-03-01"
+        },
+        {
+          "user": "janesmith",
+          "rating": 5,
+          "comment": "I love this iron! It glides smoothly over my clothes and gets rid of all the wrinkles.",
+          "date": "2022-02-15"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "This steam iron has a powerful steam output and a durable non-stick soleplate."
+        },
+        {
+          "title": "Safety",
+          "content": "The iron has a safety shut-off feature and a temperature control dial to prevent accidents."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Wireless Computer Mouse",
+      "price": 29.99,
+      "preprice": 0,
+      "category": "Electronics",
+      "brand": "Logitech",
+      "sale": "",
+      "image": "img/electronics/mouse.jpeg",
+      "tag": 23,
+      "trending": false,
+      "description": "Experience enhanced precision and control with this wireless computer mouse from Logitech. The ergonomic design and long battery life make it the perfect accessory for work or play.",
+      "images": [
+        "img/electronics/mouse.jpeg",
+        "img/logo-envato.png",
+        "img/logo-envato.png"
+      ],
+      "total_price": 29.99,
+      "in_stock": true,
+      "brand_name": "Logitech",
+      "tags": [
+        "mouse",
+        "computer accessories",
+        "wireless"
+      ],
+      "specifications": {
+        "Type": "Wireless",
+        "other1": "Optical",
+        "other2": "1000 DPI",
+        "other3": "18 months"
+      },
+      "reviews": [
+        {
+          "user": "johndoe",
+          "rating": 4,
+          "comment": "Great mouse for the price, works well and feels good in the hand.",
+          "date": "2022-05-01"
+        },
+        {
+          "user": "janesmith",
+          "rating": 5,
+          "comment": "Love this mouse! Easy to set up and use.",
+          "date": "2022-04-15"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "This mouse has a contoured shape and soft rubber grips for comfortable use. It also has a scroll wheel and customizable buttons."
+        },
+        {
+          "title": "Connectivity",
+          "content": "Connects to your computer via a USB receiver or Bluetooth."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Front Load Washing Machine",
+      "price": 599.99,
+      "preprice": 699.99,
+      "category": "Appliances",
+      "brand": "Samsung",
+      "sale": "14% off",
+      "image": "img/electronics/washing.jpeg",
+      "tag": 84,
+      "trending": false,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Samsung in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "images": [
+        "img/electronics/washing.jpeg",
+        "img/electronics/washing.jpeg",
+      "img/electronics/washing.jpeg"
+      ],
+      "total_price": 599.99,
+      "in_stock": true,
+      "brand_name": "Samsung Electronics Co. Ltd.",
+      "tags": [
+        "front load",
+        "washing machine",
+        "laundry",
+        "home appliances"
+      ],
+      "specifications": {
+        "Type": "4.5 cu. ft.",
+        "other1": "capacity : l 12",
+        "other2": " Energy Star Certified :Yes",
+        "other3": "White"
+      },
+      "reviews": [
+        {
+          "user": "jane_doe",
+          "rating": 4.5,
+          "comment": "This washing machine is very efficient and gets the job done.",
+          "date": "2022-03-10"
+        },
+        {
+          "user": "john_smith",
+          "rating": 5,
+          "comment": "I am very satisfied with my purchase of this washing machine.",
+          "date": "2022-02-15"
+        }
+      ],
+      "custom_tabs": [
+        {
+          "title": "Features",
+          "content": "This washing machine comes with a range of features including a self-cleaning cycle, delay start, and more."
+        },
+        {
+          "title": "Capacity",
+          "content": "This washing machine has a large capacity of 4.5 cubic feet, allowing you to wash more clothes at once."
+        }
+      ]
+    },
+
+    {
+  "id": 15,
+  "name": "Elegant Lady Dress",
+  "price": 129.99,
+  "preprice": 175,
+  "category": "Fashion",
+  "brand": "Zara",
+  "sale": "25% off",
+  "image": "img/beauty/dress.png",
+  "tag": 89,
+  "trending": true,
+  "description": "Look elegant and stunning with this beautiful lady dress designed by Zara. Made with high-quality fabric and attention to detail, this dress is perfect for any formal or semi-formal occasion. Available in multiple sizes and colors.",
+  "images": [
+    "img/fashion.jpeg",
+    "img/fashion.jpeg",
+    "img/fashion.jpeg"
+  ],
+  "total_price": 129.99,
+  "in_stock": true,
+  "brand_name": "Zara",
+  "tags": [
+    "lady dress",
+    "formal wear",
+    "semi-formal wear"
+  ],
+  "specifications": {
+    "Type": "Polyester",
+    "other1": "Small, Medium, Large, XL",
+    "other2": "Black, Red, Blue, Green, Purple"
+  },
+  "reviews": [
+    {
+      "user": "jane_doe",
+      "rating": 4.5,
+      "comment": "Beautiful dress, fits perfectly!",
+      "date": "2022-03-10"
+    },
+    {
+      "user": "john_smith",
+      "rating": 5,
+      "comment": "Amazing quality and design, highly recommended.",
+      "date": "2022-02-22"
+    }
+  ],
+  "custom_tabs": [
+    {
+      "title": "Size Chart",
+      "content": "Please refer to the size chart for accurate sizing information."
+    },
+    {
+      "title": "Care Instructions",
+      "content": "Machine washable, tumble dry low."
+    }
+  ]
+},
+{
+  "id": 16,
+  "name": "Clip-In Hair Extension",
+  "price": 49.99,
+  "preprice": 79.99,
+  "category": "Beauty",
+  "brand": "Sally Beauty",
+  "sale": "37% off",
+  "image": "img/beauty/extension.jpg",
+  "tag": 50,
+  "trending": true,
+  "description": "Transform your look with these high-quality clip-in hair extensions. Made from 100% human hair, these extensions are easy to apply and blend seamlessly with your natural hair.",
+  "images": [
+      "img/beauty/extension.jpg",
+      "img/beauty/extension.jpg",
+      "img/sunglasses.jpg"
+  ],
+  "total_price": 49.99,
+  "in_stock": true,
+  "brand_name": "Sally Beauty",
+  "tags": [
+      "hair extension",
+      "clip-in extension",
+      "human hair"
+  ],
+  "specifications": {
+      "Type": "18 inches",
+      "other1": "Straight",
+      "other2": "Dark Brown",
+      "other3": "100% Human Hair"
+  },
+  "reviews": [
+      {
+          "user": "katie24",
+          "rating": 4.5,
+          "comment": "I love these extensions! They look so natural and are easy to style.",
+          "date": "2022-04-05"
+      },
+      {
+          "user": "jenny88",
+          "rating": 5,
+          "comment": "These are the best extensions I've ever used. They're so soft and silky, and the color matches perfectly with my natural hair.",
+          "date": "2022-03-22"
+      }
+  ],
+  "custom_tabs": [
+      {
+          "title": "Features",
+          "content": "These clip-in extensions are made from 100% human hair and come in a variety of colors and textures to suit your needs."
+      },
+      {
+          "title": "Application",
+          "content": "Applying these extensions is easy and takes just a few minutes. Simply clip them in where you want added length and volume."
+      }
+  ]
+},
+{
+  "id": 17,
+  "name": "Reusable Cloth Face Mask",
+  "price": 9.99,
+  "preprice": 12.99,
+  "category": "Beauty",
+  "brand": "Unbranded",
+  "sale": "23% off",
+  "image": "img/beauty/mask.jpeg",
+  "tag": 92,
+  "trending": false,
+  "description": "Stay safe and stylish with this reusable cloth face mask. Made with high-quality materials, this mask is both comfortable and effective in preventing the spread of germs. The adjustable ear loops and nose wire ensure a secure fit, while the stylish design adds a pop of color to your outfit.",
+  "images": [
+    "img/beauty/mask.jpeg",
+    "img/headphones.png",
+    "img/headphones.png"
+  ],
+  "total_price": 9.99,
+  "in_stock": true,
+  "brand_name": "Unbranded",
+  "tags": [
+    "face mask",
+    "cloth mask",
+    "reusable mask"
+  ],
+  "specifications": {
+    "Type": "Cotton",
+    "other1": "One Size Fits Most",
+    "other2": "Adjustable Ear Loops, Nose Wire"
+  },
+  "reviews": [
+    {
+      "user": "jane_doe",
+      "rating": 4.5,
+      "comment": "Great mask, very comfortable to wear for long periods of time.",
+      "date": "2022-04-02"
+    },
+    {
+      "user": "john_smith",
+      "rating": 5,
+      "comment": "Love the design of this mask, very stylish and practical.",
+      "date": "2022-03-20"
+    }
+  ],
+  "custom_tabs": [
+    {
+      "title": "Care Instructions",
+      "content": "Hand wash in cold water and hang dry. Do not bleach or iron."
+    },
+    {
+      "title": "Usage Tips",
+      "content": "Make sure to wash your mask after each use. Adjust the ear loops and nose wire to ensure a secure fit."
+    }
+  ]
+},
+
+{
+  "id": 18,
+  "name": "Nail Polish Set",
+  "price": 29.99,
+  "preprice": 35.99,
+  "category": "Beauty",
+  "brand": "OPI",
+  "sale": "20% off",
+  "image": "img/beauty/nails.jpg",
+  "tag": 112,
+  "trending": true,
+  "description": "Get salon-quality nails at home with this OPI nail polish set. With a range of colors to choose from, you'll always have the perfect shade for any occasion.",
+  "images": [
+    "img/beauty/nails.jpg",
+    "img/beauty/nailpolish.jpg",
+    "img/beauty/nails.jpg"
+  ],
+  "total_price": 29.99,
+  "in_stock": true,
+  "brand_name": "OPI",
+  "tags": [
+    "nail polish",
+    "manicure",
+    "pedicure"
+  ],
+  "specifications": {
+    "Type": "6 pieces",
+    "other1":"red green yellow",
+    "other2":"love nails",
+    "other3":"x-zenxi"
+  },
+  "reviews": [
+    {
+      "user": "jenny_smith",
+      "rating": 4,
+      "comment": "Great value for the price!",
+      "date": "2022-04-01"
+    },
+    {
+      "user": "mike_jones",
+      "rating": 5,
+      "comment": "Love these colors!",
+      "date": "2022-03-15"
+    }
+  ],
+  "custom_tabs": [
+    {
+      "title": "Benefits",
+      "content": "This nail polish set is long-lasting and chip-resistant, so you can enjoy beautiful nails for longer."
+    },
+    {
+      "title": "Application",
+      "content": "Apply two coats of the nail polish, allowing each coat to dry before applying the next."
+    }
+  ]
+},
+{
+  "id": 19,
+  "name": "Nail Polish",
+  "price": 9.99,
+  "preprice": 12.99,
+  "category": "Beauty",
+  "brand": "OPI",
+  "sale": "23% off",
+  "image": "img/beauty/nailpolish.jpg",
+  "tag": 62,
+  "trending": true,
+  "description": "Get salon-quality nails with this premium nail polish from OPI. Available in a variety of shades to suit any style.",
+  "images": [
+    "img/beauty/nailpolish.jpg",
+    "img/beauty/nailpolish.jpg",
+    "img/beauty/nailpolish.jpg"
+  ],
+  "total_price": 9.99,
+  "in_stock": true,
+  "brand_name": "OPI Products, Inc.",
+  "tags": [
+    "nail polish",
+    "manicure",
+    "beauty"
+  ],
+  "specifications": {
+    "Type": "0.5 fl oz",
+    "other1": "Shiny",
+    "other2": "Red"
+  },
+  "reviews": [
+    {
+      "user": "jane_doe",
+      "rating": 4,
+      "comment": "Beautiful color, long-lasting.",
+      "date": "2022-03-25"
+    },
+    {
+      "user": "john_smith",
+      "rating": 5,
+      "comment": "The perfect shade of red. I love it!",
+      "date": "2022-04-02"
+    }
+  ],
+  "custom_tabs": [
+    {
+      "title": "Application",
+      "content": "Apply two coats of polish for best results."
+    },
+    {
+      "title": "Removal",
+      "content": "Use nail polish remover to remove polish."
+    }
+  ]
+},
+{
+  "id": 20,
+  "name": "Himalaya Herbals Purifying Neem Face Pack",
+  "price": 6.99,
+  "preprice": 8.99,
+  "category": "Beauty",
+  "brand": "Himalaya Herbals",
+  "sale": "22% off",
+  "image": "img/beauty/pack.jpeg",
+  "tag": 45,
+  "trending": true,
+  "description": "Himalaya Herbals Purifying Neem Face Pack is a herbal face pack that helps to remove impurities and excess oil from the skin. It contains neem and turmeric which are known for their antibacterial and anti-inflammatory properties. This face pack helps to prevent acne and pimple breakouts, leaving the skin soft and radiant.",
+  "images": [
+    "img/beauty/pack.jpeg",
+    "img/beauty/pack.jpeg",
+    "img/beauty/pack.jpeg"
+  ],
+  "total_price": 6.99,
+  "in_stock": true,
+  "brand_name": "Himalaya Herbals",
+  "tags": [
+    "face pack",
+    "skincare",
+    "herbal"
+  ],
+  "specifications": {
+    "Type": "Herbal face pack",
+    "Size": "100g",
+    "Benefits": [
+      "Removes impurities and excess oil from the skin",
+      "Prevents acne and pimple breakouts",
+      "Leaves skin soft and radiant"
+    ]
+  },
+  "reviews": [
+    {
+      "user": "jane_smith",
+      "rating": 4.5,
+      "comment": "Love this face pack! It leaves my skin feeling so soft and clean.",
+      "date": "2022-03-01"
+    },
+    {
+      "user": "john_doe",
+      "rating": 5,
+      "comment": "Great product! My acne has cleared up so much since I started using this face pack.",
+      "date": "2022-02-15"
+    }
+  ],
+  "custom_tabs": [
+    {
+      "title": "Ingredients",
+      "content": "This face pack contains neem and turmeric which are known for their antibacterial and anti-inflammatory properties, and also helps to remove impurities and excess oil from the skin."
+    },
+    {
+      "title": "How to use",
+      "content": "Apply a thick layer of the face pack on clean face and neck, avoiding the area around the eyes. Leave it on for 15-20 minutes and then rinse thoroughly with water."
+    }
+  ]
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+  ]
+}
