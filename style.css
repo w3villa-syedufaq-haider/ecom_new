@@ -25,7 +25,7 @@ body{
 
 }
 .four{
-    padding-left: 15px;
+    padding-left: 170px;
 }
 .fa-bars{
     padding-left: 20px;
@@ -36,7 +36,8 @@ body{
 header{
     display: flex;
     justify-content: space-between;
-    margin: 30px;
+    padding-right: 150px;
+    margin: 5px;
 }
 
 .drop a{
@@ -209,8 +210,7 @@ header{
 
 .journal h1{
     font-weight: bold;
-    padding-right: 327px;
-    padding-left: 60px;
+    padding-left: 190px;
     margin-top: 2%;
 }
 .handle{
@@ -258,7 +258,7 @@ header{
     background-color: blue;
     color:white;
     display: flex;
-    padding-left: 60px;
+    padding-left: 190px;
     justify-content: space-between;
 }
 .dep_secs{
@@ -285,7 +285,7 @@ header{
 .caras_img img{
     width: 333px;
     display: block;
-    margin-left: 50px;
+    margin-left: 30px;
     border-radius: 10px;
     height: 260px;
 }
@@ -378,11 +378,15 @@ header{
 
 #slider{
     width: 100%;
+    border-radius: 10px;
 }
 
 #buy{
     text-align: left;
     
+}
+#both{
+    padding-left: 175px;
 }
 
 .blue_right{
@@ -445,10 +449,6 @@ h2{
 .why .nav{
     padding-top: 20px;
 }
-.types_img{
-    display: flex;
-    padding-top: 20px;
-}
 .types_img li{
     list-style: none;
 }
@@ -457,7 +457,13 @@ h2{
     height:400px;
     width: 350px;
 }
+/* .owl-carousel .types_img {
+    padding: 0 90px;
+  } */
+.carousel1{
+    padding-left: 50px;
 
+}
 
 /* Most- viewed  */
 #most-viewed {
@@ -496,10 +502,15 @@ h2{
   border-radius: 4px;
 
 }
-
+#myCarousel{
+    padding-left: 128px;
+    padding-bottom: 40px;
+}
 
 .input-groupss{
     display: flex;
+    padding-left: -20px;
+    padding-top: 8px;
 }
 
 
@@ -626,6 +637,7 @@ h2{
     filter: grayscale(70%);   
 }
 
+
 .gallery{
     padding-top: 40px;
     height: auto;
@@ -637,6 +649,10 @@ h2{
 .gallery_logo{
     padding-top: 30px;
     flex-wrap: wrap;
+    padding-bottom: 30px;
+}
+.gallery h6{
+    color: white;
 }
 
 .gallery_logo img{
@@ -1089,7 +1105,7 @@ input[type=text]:focus, input[type=password]:focus {
     background-color:rgb(226, 217, 217);
     margin-top: 20px;
     font-size: 30px;
-    padding-left: 20px;
+    padding-left: 175px;
     padding-top: 20px;
     padding-bottom: 25px;
 }
@@ -1234,7 +1250,7 @@ p{
 }
 
 #direct{
-    padding-left: 20px;
+    padding-left: 175px;
 }
 
  @media (max-width: 1500px) {
