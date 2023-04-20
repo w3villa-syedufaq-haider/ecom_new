@@ -56,10 +56,17 @@
 
 
 
+
+
+
+
+
+
+
+
   <!-- Original CONTENT -->
 
 
-  
   <header>
     <div class="four">
       <a><i class="fa-solid fa-house fa-2x"></i>&nbsp;&nbsp;Home</a>
@@ -114,14 +121,17 @@
     </div>
     <div class="handle">
       <a href="#" class="cart" data-toggle="modal" data-target="#LoginModal"><i
-          class="fa-solid fa-user fa-2x"></i>Login</a>
+          class="fa-solid fa-circle-user fa-2x" style="color: #555753;"></i> <h6>Login</h6></a>
+
       <a href="#" class="cart" data-toggle="modal" data-target="#RegisterModal"><i
-          class="fa-solid fa-pencil fa-2x"></i>Register</a>
+          class="fa-solid fa-pencil fa-2x" style="color: #555753; "></i> <h6>Register</h6></a>
+
       <a href="#" class="cart" data-toggle="modal" data-target="#wishModals"><i
-          class="fa-regular fa-heart fa-2x"></i>Wishlist</a>
-      <a><i class="fa-solid fa-arrow-right-arrow-left fa-2x"></i>Compare</a>
-      <a href="#" class="cart" data-toggle="modal" data-target="#exampleModal"><i
-          class="fa-solid fa-cart-shopping fa-2x "></i></a>
+          class="fa-regular fa-heart fa-2x" style="color: #555753;"></i> <h6>Wishlist</h6></a>
+
+      <a><i class="fa-solid fa-arrow-right-arrow-left fa-2x" style="color: #555753;"></i> <h6>Compare</h6></a>
+      <a href="#" class="cart_buy" data-toggle="modal" data-target="#exampleModal"><i
+          class="fa-solid fa-cart-shopping fa-2x" style="color: #ffffff;"></i></a>
     </div>
   </div>
 
@@ -149,14 +159,17 @@
         </div>
         <div class="modal-body modal-lg">
           <form id="signup-form">
+
+          <label for="user"><b>Username</b></label>
+          <input type="text" placeholder="Username" name="user" id="username" required>
+            
           <label for="email"><b>Email</b></label>
           <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
           <label for="psw"><b>Password</b></label>
           <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
 
-          <!-- <label for="psw-repeat"><b>Repeat Password</b></label>
-          <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required> -->
+         
 
 
           <button type="submit" class="registerbtn" id="btnsubmit" >Register</button>
@@ -274,7 +287,98 @@
 
   <div class="blue">
     <div class="dep_secs">
-      <a class="dep"><i class="fa-solid fa-bars"></i> ALL DEPARTMENTS</a>
+      <div class="dep dropdown">
+        <a style="font-size: 20px;"><i class="fa-solid fa-bars"></i> ALL DEPARTMENTS</a>
+        <div class="dropdown-content-dep">
+          <a href="#">Shop by Category</a>
+          <div class="additional-content ">
+            <div class="content-1" style="display: flex;">
+              <ul class="catalog-title">Fashion
+                <li class="li_fash">Accesories</li>
+                <li class="li_fash">Dresses</li>
+                <li class="li_fash">Pants</li>
+                <li class="li_fash">T-Shirts</li>
+                <a class="li_fash" href="#">See all products</a>
+              </ul>
+              <ul class="catalog-title">Electronics
+                <li class="li_fash">Computers</li>
+                <li class="li_fash">Smartphones</li>
+                <li class="li_fash">Televisions</li>
+                <li class="li_fash">Headphones</li>
+                <a class="li_fash" href="#">See all products</a>
+              </ul>
+              <ul class="catalog-title">Bags
+                <li class="li_fash">Handbags</li>
+                <li class="li_fash">Backpacks</li>
+                <li class="li_fash">Tote Bags</li>
+                <li class="li_fash">Messenger Bags</li>
+                <a class="li_fash" href="#">See all products</a>
+              </ul>
+              
+            </div>
+        <div class="content-2">
+          <ul class="catalog-title">Food
+            <li class="li_fash">Produce</li>
+            <li class="li_fash">Dairy</li>
+            <li class="li_fash">Meat</li>
+            <li class="li_fash">Bakery</li>
+            <a class="li_fash" href="#">See all products</a>
+          </ul>
+          
+          <ul class="catalog-title">Footwear
+            <li class="li_fash">Sneakers</li>
+            <li class="li_fash">Boots</li>
+            <li class="li_fash">Sandals</li>
+            <li class="li_fash">Flats</li>
+            <a class="li_fash" href="#">See all products</a>
+          </ul>
+          <ul class="catalog-title">Health
+            <li class="li_fash">Vitamins & Supplements</li>
+            <li class="li_fash">Personal Care</li>
+            <li class="li_fash">Fitness Equipment</li>
+            <li class="li_fash">First Aid</li>
+            <a class="li_fash" href="#">See all products</a>
+          </ul>
+          
+      </div>
+          </div>
+          <a href="#">Shop by Brand</a>
+          <div class="additional-content">
+            <div class="content-1" style="display: flex;">
+              <ul class="catalog-title">Nike
+                  <li class="li_fash">Men's Shoes</li>
+                  <li class="li_fash">Women's Shoes</li>
+                  <li class="li_fash">Apparel</li>
+                  <li class="li_fash">Accessories</li>
+              </ul>
+              <ul class="catalog-title">Adidas
+                  <li class="li_fash">Men's Shoes</li>
+                  <li class="li_fash">Women's Shoes</li>
+                  <li class="li_fash">Apparel</li>
+                  <li class="li_fash">Accessories</li>
+                </ul>
+            </div>
+            <div class="content-2">
+            <ul class="catalog-title">Apple
+                  <li class="li_fash">iPhone</li>
+                  <li class="li_fash">iPad</li>
+                  <li class="li_fash">Mac</li>
+                  <li class="li_fash">Apple Watch</li>
+              </ul>
+              <ul class="catalog-title">Samsung
+                  <li class="li_fash">Smartphones</li>
+                  <li class="li_fash">Tablets</li>
+                  <li class="li_fash">TVs</li>
+                  <li class="li_fash">Appliances</li>
+                </ul>
+            </ul>
+          </div>
+          </div>
+          <a href="#">Link 3</a>
+          <div class="additional-content">Additional Content 3</div>
+        </div>
+    </div>
+
       <span class="position-absolute top-0 start-100 translate-middle badge_DEP  ">
         SALE
       </span>
@@ -294,6 +398,7 @@
   </div>
       </div>
     </div>
+  
 
   </div>
 
